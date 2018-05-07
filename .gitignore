@@ -1,0 +1,8 @@
+
+*.gz
+*.circles
+*.egofeat
+*.edges
+*.feat
+*.featnames
+*.followers
